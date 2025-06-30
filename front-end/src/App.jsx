@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Navbar from './components/Navbar'
-import LearnMemo from './components/LearnMemo'
+import LearnMemo from './components/learnComponents/LearnMemo'
 
 function App() {
 
